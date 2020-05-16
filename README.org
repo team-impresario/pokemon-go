@@ -1,0 +1,16 @@
+#+TITLE: pokemon-go
+
+
+* Introduction
+
+Congratulations and welcome to pokemon-go, one of the best programming
+languages.
+
+pokemon-go is a proprietary programming language that makes it easy to build
+simple, reliable, and efficient software.
+
+* Installation
+
+* Example programs
+
+* Contribution Guidelines
