@@ -2,7 +2,6 @@
 
 
 * Introduction
-
 Congratulations and welcome to pokemon-go, one of the best programming
 languages.
 
@@ -10,7 +9,48 @@ pokemon-go is a proprietary programming language that makes it easy to build
 simple, reliable, and efficient software.
 
 * Installation
+Download the famed pokemon-go binary executable from our latest release and
+place it somewhere on your path.
 
-* Example programs
+`sudo mv pokemon-go /usr/local/bin`
+
+Then run `pokemon-go` for further instructions.
+
+
+* Documentation
+
+Please find below a guide to pokemon-go usage. We include a comparison with
+similar commands in the older, inferior go language.
+
+| pokemon-go | go          |
+|------------+-------------|
+| snorlax    | break       |
+| diglett    | case        |
+| psyduck    | chan        |
+| geodude    | const       |
+| clink      | continue    |
+| squirtle   | default     |
+| kakuna     | defer       |
+| unown      | else        |
+| sandshrew  | fallthrough |
+| forretress | for         |
+| exeggcutor | func        |
+| pikachu    | go          |
+| alakazam   | goto        |
+| chansey    | if          |
+| goldeen    | import      |
+| poliwag    | interface   |
+| meowth     | map         |
+| slowbro    | package     |
+| gengar     | range       |
+| eevee      | return      |
+| scyther    | select      |
+| onyx       | struct      |
+| dugtrio    | switch      |
+| togepi     | type        |
+| jynx       | var         |
 
 * Contribution Guidelines
+ pokemon-go is *closed source* and all attempts at contribution will be met with
+ swift and harsh retribution according to the terms described in the pokemon-go
+ license.
