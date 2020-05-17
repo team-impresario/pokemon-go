@@ -26,6 +26,12 @@ If you're a nerd and can't be bothered to download our latest release, clone
 this repo, then run ~go build~ and then place the created binary executable on
 your path.
 
+
+*** Usage
+Run ~pokemon-go~ for usage instructions.
+
+Try running one of our [[./examples/][example programs]] for inspiration.
+
 ** Documentation
 
 Please find below a guide to pokemon-go usage. We include a comparison with
