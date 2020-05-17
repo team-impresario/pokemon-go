@@ -44,7 +44,8 @@ func exeggcute(filePath string) {
 	cmnd := exec.Command("go", "run", file.Name())
 	output, err := cmnd.Output()
 	if err != nil {
-		fmt.Printf("Command failed with error %v", err)
+		fmt.Println("Your code did not work. Have you considered quitting programming?")
+		fmt.Println("Thank you for using pokemon-go!")
 	}
 	fmt.Printf("%s", output)
 }
