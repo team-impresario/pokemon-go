@@ -1,13 +1,32 @@
 Copyright 2020 Impresario Holdings Inc.
 
-Permission is hereby conditionally granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is hereby conditionally granted, free of charge, to any person
+obtaining a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-The terms and conditions of such use can be changed without notice by Impresario Holdings Inc and retroactively applied to any previous interaction with the Software.
+The terms and conditions of such use can be changed without notice by Impresario
+Holdings Inc and retroactively applied to any previous interaction with the
+Software.
 
-Users of the Software agree may or may not be personally liable for all outstanding debt obligations by members of Impresario Holdings Inc.
+Users of the Software agree may or may not be personally liable for all
+outstanding debt obligations by members of Impresario Holdings Inc.
 
-Any person using the Software declares fealty to Impresario Holdings Inc. for an inefinite period of time and will perform all required duties such as maritime warfare, animal husbandry, and topiary art.
+Any person or animal using the Software declares fealty to Impresario Holdings
+Inc. for an inefinite period of time and will perform all required duties such
+as maritime warfare, animal husbandry, and topiary art.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. USE OF THE SOFTWARE DEEMED INAPPROPRIATE OR SUBOPTIMAL BY IMPRESARIO IS PUNISHABLE BY DEATH AS DETERMINED APPROPRAITE BY A COURT OF LAW OR A JURY THEREBY SELECTED BY IMPRESARIO HOLDINGS INC.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. USE
+OF THE SOFTWARE DEEMED INAPPROPRIATE OR SUBOPTIMAL BY IMPRESARIO IS PUNISHABLE
+BY DEATH AS DETERMINED APPROPRIATE BY A COURT OF LAW OR A JURY THEREBY SELECTED
+BY IMPRESARIO HOLDINGS INC.

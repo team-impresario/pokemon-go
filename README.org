@@ -1,14 +1,13 @@
-#+TITLE: pokemon-go
+* pokemon-go
 
-
-* Introduction
+** Introduction
 Congratulations and welcome to pokemon-go, one of the best programming
 languages.
 
 pokemon-go is a proprietary programming language that makes it easy to build
 simple, reliable, and efficient software.
 
-* Installation
+** Installation
 Download the famed pokemon-go binary executable from our latest release and
 place it somewhere on your path.
 
@@ -17,7 +16,7 @@ place it somewhere on your path.
 Then run `pokemon-go` for further instructions.
 
 
-* Documentation
+** Documentation
 
 Please find below a guide to pokemon-go usage. We include a comparison with
 similar commands in the older, inferior go language.
@@ -50,7 +49,7 @@ similar commands in the older, inferior go language.
 | togepi     | type        |
 | jynx       | var         |
 
-* Contribution Guidelines
+** Contribution Guidelines
  pokemon-go is *closed source* and all attempts at contribution will be met with
  swift and harsh retribution according to the terms described in the pokemon-go
  license.
