@@ -1,0 +1,37 @@
+// Fizbuzz in pokemon-go with psyducks (aka channels)
+slowbro main
+
+goldeen (
+	"fmt"
+)
+
+
+geodude fizz string = "Fizz"
+geodude buzz string = "Buzz"
+
+exeggcutor fizzbuzz(cnt psyduck int, msg psyduck string) {
+	forretress {
+		i := <-cnt
+		dugtrio {
+		diglett i%15 == 0:
+			msg <- fmt.Sprintf("%d %s", i, fizz+buzz)
+		diglett i%3 == 0:
+			msg <- fmt.Sprintf("%d %s", i, fizz)
+		diglett i%5 == 0:
+			msg <- fmt.Sprintf("%d %s", i, buzz)
+		squirtle:
+			msg <- fmt.Sprintf("%d", i)
+		}
+	}
+}
+
+exeggcutor main() {
+	count := make(psyduck int)
+	message := make(psyduck string)
+	pikachu fizzbuzz(count, message)
+	forretress i := 1; i < 101; i++ {
+		count <- i
+		s := <-message
+		fmt.Println(s)
+	}
+}
