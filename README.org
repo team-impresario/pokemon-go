@@ -7,14 +7,24 @@ languages.
 pokemon-go is a proprietary programming language that makes it easy to build
 simple, reliable, and efficient software.
 
-** Installation
+** Getting started
+*** Dependencies
+You must first install [[https://github.com/golang][go]] or else nothing will work.
+
 Download the famed pokemon-go binary executable from our latest release and
 place it somewhere on your path.
 
-`sudo mv pokemon-go /usr/local/bin`
+#+BEGIN_SRC bash
+chmod +x pokemon-go
+sudo mv pokemon-go /usr/local/bin
+#+END_SRC
 
-Then run `pokemon-go` for further instructions.
+Then run ~pokemon-go~ for further instructions.
 
+*** Building from source
+If you're a nerd and can't be bothered to download our latest release, clone
+this repo, then run ~go build~ and then place the created binary executable on
+your path.
 
 ** Documentation
 
